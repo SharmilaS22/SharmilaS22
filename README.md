@@ -2,7 +2,7 @@
 ### I'm Sharmila. 
 
 - 🏫 Engineering Undergrad student specialised in computer science.
-- 🔭 I’m currently working as an intern on _Tactlabs, Ontorio._
+- 🔭 I’m currently working as an intern at _Tactlabs, Ontorio._
 - 🌱 I’m currently learning AWS Cloud.
 - 🌟 Part-time blogger - Find my articles at https://sharmilas22.medium.com/
 - 💻 Domains: _Full stack Web Development, UI/UX Design, Machine Learning, Cloud Computing._
