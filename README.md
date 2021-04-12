@@ -11,9 +11,9 @@
 
 📫 How to reach me: https://sharmilas.herokuapp.com/ or https://www.linkedin.com/in/sharmila-s22/
 
-# Recent medium articles
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Recent medium articles
+<!-- MEDIUM-STORY-LIST:START -->
+<!-- MEDIUM-STORY-LIST:END -->
 
 <!--
 **SharmilaS22/SharmilaS22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
