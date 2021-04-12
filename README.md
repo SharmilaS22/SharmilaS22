@@ -1,5 +1,4 @@
-### Hi there 👋
-### I'm Sharmila. 
+### Hi there, I'm Sharmila 👋
 
 - 🏫 Engineering Undergrad student specialised in computer science.
 - 🔭 I’m currently working as an intern at _Tactlabs, Ontorio._
@@ -11,6 +10,11 @@
 - ✨ Favourite Quote: _"Quit trying to fit in, when you were born to stand out"_
 
 📫 How to reach me: https://sharmilas.herokuapp.com/ or https://www.linkedin.com/in/sharmila-s22/
+
+# Recent medium articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **SharmilaS22/SharmilaS22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
