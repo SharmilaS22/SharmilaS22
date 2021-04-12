@@ -1,5 +1,16 @@
 ### Hi there 👋
+### I'm Sharmila. 
 
+- 🏫 Engineering Undergrad student specialised in computer science.
+- 🔭 I’m currently working as an intern on _Tactlabs, Ontorio._
+- 🌱 I’m currently learning AWS Cloud.
+- 🌟 Part-time blogger - Find my articles at https://sharmilas22.medium.com/
+- 💻 Domains: _Full stack Web Development, UI/UX Design, Machine Learning, Cloud Computing._
+- 👩‍💻 Favourite language: _Javascript, Python and C._
+- 💞 Favourites: Coffee ☕, Music 🎶, Books 📚
+- ✨ Favourite Quote: _"Quit trying to fit in, when you were born to stand out"_
+
+📫 How to reach me: https://sharmilas.herokuapp.com/ or https://www.linkedin.com/in/sharmila-s22/
 <!--
 **SharmilaS22/SharmilaS22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
