@@ -13,11 +13,11 @@
 
 ### Recent medium articles
 <!-- MEDIUM-STORY-LIST:START -->
+- [Set up Tailwind CSS for your Vue.js app](https://medium.com/featurepreneur/set-up-tailwind-css-for-your-vue-js-app-5a8801fd0a55?source=rss-5da727287624------2)
 - [6 Must know modern JavaScript concepts](https://medium.com/featurepreneur/6-must-know-javascript-es6-concepts-6bbf1b448228?source=rss-5da727287624------2)
 - [Connect MongoDB database to Express server — step-by-step](https://medium.com/featurepreneur/connect-mongodb-database-to-express-server-step-by-step-53e548bb4967?source=rss-5da727287624------2)
 - [Develop a Backend Server for your application using Express](https://medium.com/featurepreneur/develop-a-backend-server-for-your-application-using-express-29deeae40ed1?source=rss-5da727287624------2)
 - [Here’s a quick way to make python scripts download images for you.](https://medium.com/featurepreneur/heres-a-quick-way-to-make-python-scripts-download-images-for-you-d36a8f4bdf03?source=rss-5da727287624------2)
-- [How I got my chance to take up the AWS exam fully funded](https://medium.com/featurepreneur/how-i-got-my-chance-to-take-up-the-aws-exam-fully-funded-ac49610d9504?source=rss-5da727287624------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!--
