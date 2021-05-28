@@ -3,7 +3,7 @@
 - 🏫 Engineering Undergrad specialised in computer science.
 - 🔭 I’m currently working as an intern at _Tactlabs, Ontorio._
 - 🌱 I’m currently learning AWS Cloud.
-- 🌟 Part-time blogger - Find my articles at https://sharmilas22.medium.com/
+- 🌟 Part-time blogger - Find my articles at https://sharmilas.medium.com/
 - 💻 Domains: _Full stack Web Development, UI/UX Design, Machine Learning, Cloud Computing._
 - 👩‍💻 Favourite languages: _Javascript, Python and C._
 - 💞 Favourites: Coffee ☕, Music 🎶, Books 📚
