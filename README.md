@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: She, Her
 - 🏫 Engineering Undergrad specialised in computer science.<!-- - 🔭 I’m currently working as an intern at _Tactlabs, Ontorio._ -->
-- 🌱 I’m exploring the world of DevOps.
+- 🌱 I’m currently exploring the world of DevOps.
 - 🌟 Technical blogger - Find my articles at https://sharmilas.medium.com/
 - 💻 Domains: _Full stack Web Development, UI/UX Design, DevOps, Machine Learning, Cloud Computing._
 - 👩‍💻 Favourite languages: _Javascript, Python and C._
