@@ -13,11 +13,11 @@
 
 ### Recent medium articles
 <!-- MEDIUM-STORY-LIST:START -->
+- [Glassmorphism effect in CSS3](https://medium.com/featurepreneur/glassmorphism-effect-in-css3-988d7e8e92da?source=rss-5da727287624------2)
 - [Host a Static website on AWS S3](https://medium.com/featurepreneur/host-a-static-website-on-aws-s3-c4a37a7efcc2?source=rss-5da727287624------2)
 - [CRUD operations on DynamoDB with Flask APIs](https://medium.com/featurepreneur/crud-operations-on-dynamodb-with-flask-apis-916f6cae992?source=rss-5da727287624------2)
 - [Deploy your Flask application to Amazon EC2](https://medium.com/featurepreneur/deploy-your-flask-app-to-amazon-ec2-56e2f2a14021?source=rss-5da727287624------2)
 - [Build GraphQL APIs in Flask using Graphene](https://medium.com/featurepreneur/build-graphql-apis-in-flask-using-graphene-4750f81ab204?source=rss-5da727287624------2)
-- [A Guide to Dockerize your Node.js Application](https://medium.com/featurepreneur/a-guide-to-dockerize-your-node-js-application-c24b5e129995?source=rss-5da727287624------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!--
