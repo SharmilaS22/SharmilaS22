@@ -13,11 +13,11 @@
 
 ### Recent medium articles
 <!-- MEDIUM-STORY-LIST:START -->
+- [Set Aesthetic clock screen saver in your laptop &lpar;Windows OS&rpar;](https://sharmilas.medium.com/set-aesthetic-clock-screen-saver-in-your-laptop-windows-os-122db5e871a4?source=rss-5da727287624------2)
 - [Lambda — API Gateway —  DynamoDB](https://medium.com/featurepreneur/lambda-api-gateway-dynamodb-d8a35c379810?source=rss-5da727287624------2)
 - [Glassmorphism effect in CSS3](https://medium.com/featurepreneur/glassmorphism-effect-in-css3-988d7e8e92da?source=rss-5da727287624------2)
 - [Host a Static website on AWS S3](https://medium.com/featurepreneur/host-a-static-website-on-aws-s3-c4a37a7efcc2?source=rss-5da727287624------2)
 - [CRUD operations on DynamoDB with Flask APIs](https://medium.com/featurepreneur/crud-operations-on-dynamodb-with-flask-apis-916f6cae992?source=rss-5da727287624------2)
-- [Deploy your Flask application to Amazon EC2](https://medium.com/featurepreneur/deploy-your-flask-app-to-amazon-ec2-56e2f2a14021?source=rss-5da727287624------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!--
