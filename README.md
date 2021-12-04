@@ -9,7 +9,7 @@
 - 💞 Favourites: Coffee ☕, Music 🎶, Books 📚
 - ✨ Favourite Quote: _"Quit trying to fit in, when you were born to stand out"_
 
-📫 How to reach me: https://sharmilas.herokuapp.com/ or https://www.linkedin.com/in/sharmila-s22/
+📫 How to reach me: [https://sharmilas.herokuapp.com/](https://sharmilas.herokuapp.com/?src=github) or https://www.linkedin.com/in/sharmila-s22/
 
 ### Recent medium articles
 <!-- MEDIUM-STORY-LIST:START -->
