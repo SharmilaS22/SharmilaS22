@@ -13,7 +13,7 @@
 
 ### Recent medium articles
 <!-- MEDIUM-STORY-LIST:START -->
-- [Download files for the client from the Node.js server in a quick way](https://sharmilas.medium.com/download-files-for-the-client-from-the-node-js-server-using-this-quick-way-d35c527f5e48?source=rss-5da727287624------2)
+- [Download files for the client from the Node.js server using this quick way](https://sharmilas.medium.com/download-files-for-the-client-from-the-node-js-server-using-this-quick-way-d35c527f5e48?source=rss-5da727287624------2)
 - [4 Useful tips for Consistent Progress](https://sharmilas.medium.com/4-useful-tips-for-consistent-progress-2cc228bac139?source=rss-5da727287624------2)
 - [Set Aesthetic clock screen saver in your laptop &lpar;Windows OS&rpar;](https://sharmilas.medium.com/set-aesthetic-clock-screen-saver-in-your-laptop-windows-os-122db5e871a4?source=rss-5da727287624------2)
 - [Lambda — API Gateway —  DynamoDB](https://medium.com/featurepreneur/lambda-api-gateway-dynamodb-d8a35c379810?source=rss-5da727287624------2)
