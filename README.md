@@ -1,10 +1,11 @@
 ### Hi there, I'm Sharmila 👋
 
 - 😄 Pronouns: She, Her
-- 🏫 Engineering Undergrad specialised in computer science.<!-- - 🔭 I’m currently working as an intern at _Tactlabs, Ontorio._ -->
+- 🏫 Engineering Undergrad specialised in computer science.
+- 🔭 I’m currently working as a Developer Intern at _Thoughtworks India._
 - 🌱 I’m currently exploring the world of DevOps.
 - 🌟 Technical blogger - Find my articles at https://sharmilas.medium.com/
-- 💻 Domains: _Full stack Web Development, DevOps, Cloud Computing._
+- 💻 Domains: _Web Development, DevOps, Cloud Computing._
 - 👩‍💻 Favourite languages: _Javascript, Python and C++._
 - 💞 Favourites: Coffee ☕, Music 🎶, Books 📚
 - ✨ Favourite Quote: _"Quit trying to fit in, when you were born to stand out"_
