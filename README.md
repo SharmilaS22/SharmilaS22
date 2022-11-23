@@ -14,7 +14,7 @@
 
 ### Recent medium articles
 <!-- MEDIUM-STORY-LIST:START -->
-- [Create an s3 bucket with AWS CDK](https://sharmilas.medium.com/create-an-s3-bucket-with-aws-cdk-e012b43c3511?source=rss-5da727287624------2)
+- [Create an s3 bucket with AWS CDK](https://blog.devops.dev/create-an-s3-bucket-with-aws-cdk-e012b43c3511?source=rss-5da727287624------2)
 - [RabbitMQ Exchange Types Explained](https://blog.devops.dev/rabbitmq-exchange-types-explained-5fd9086595f5?source=rss-5da727287624------2)
 - [Deploy a pod to the local Kubernetes cluster](https://sharmilas.medium.com/deploy-a-pod-to-the-local-kubernetes-cluster-61b33672dfec?source=rss-5da727287624------2)
 - [Get Started with RabbitMQ in Node.js](https://sharmilas.medium.com/get-started-with-rabbitmq-in-node-js-1adb18d019d0?source=rss-5da727287624------2)
