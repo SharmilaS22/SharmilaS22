@@ -5,7 +5,7 @@
 - 🔭 I’m currently working as a Developer at _Thoughtworks India._
 - 🌱 I’m currently learning DevOps.
 - 🌟 Technical blogger - Find my articles at https://sharmilas.medium.com/
-- 💻 Domains: _Web Development, DevOps, Cloud Computing._
+- 💻 Domains: _Web Development, DevOps, Cloud._
 - 👩‍💻 Favourite languages: _Javascript, Python and Java._
 - 💞 Favourites: Coffee ☕, Music 🎶, Books 📚
 - ✨ Favourite Quote: _"Quit trying to fit in, when you were born to stand out"_
