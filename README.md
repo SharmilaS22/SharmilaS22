@@ -1,16 +1,16 @@
 ### Hi there, I'm Sharmila 👋
 
 - 😄 Pronouns: She/Her
-- 🏫 Engineering Graduate specialised in computer science.
+- 🏫 Engineering Graduate specialising in computer science.
 - 🔭 I’m currently working as a Developer at _Thoughtworks India._
-- 🌱 I’m currently learning DevOps.
+- 🌱 I’m passionate about DevOps and Cloud.
 - 🌟 Technical blogger - Find my articles at https://sharmilas.medium.com/
 - 💻 Domains: _Web Development, DevOps, Cloud._
 - 👩‍💻 Favourite languages: _Javascript, Python and Java._
 - 💞 Favourites: Coffee ☕, Music 🎶, Books 📚
 - ✨ Favourite Quote: _"Quit trying to fit in, when you were born to stand out"_
 
-📫 How to reach me: [https://sharmilas.herokuapp.com/](https://sharmilas.herokuapp.com/?src=github) or https://www.linkedin.com/in/sharmila-s22/
+📫 How to reach me: [https://sharmilas.bio.link/](https://sharmilas.bio.link/) or https://www.linkedin.com/in/sharmila-s22/
 
 ### Recent medium articles
 <!-- MEDIUM-STORY-LIST:START -->
