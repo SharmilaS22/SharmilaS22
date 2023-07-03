@@ -18,7 +18,7 @@
 - [Publish/Subscribe Model with RabbitMQ in node.js](https://blog.devops.dev/publish-subscribe-model-with-rabbitmq-in-node-js-1be74234df60?source=rss-5da727287624------2)
 - [Create an s3 bucket with AWS CDK](https://blog.devops.dev/create-an-s3-bucket-with-aws-cdk-e012b43c3511?source=rss-5da727287624------2)
 - [RabbitMQ Exchange Types Explained](https://blog.devops.dev/rabbitmq-exchange-types-explained-5fd9086595f5?source=rss-5da727287624------2)
-- [Deploy a pod to the local Kubernetes cluster](https://sharmilas.medium.com/deploy-a-pod-to-the-local-kubernetes-cluster-61b33672dfec?source=rss-5da727287624------2)
+- [A Beginner’s Journey: Deploying Pods to a local Kubernetes Cluster Made Simple](https://sharmilas.medium.com/deploy-a-pod-to-the-local-kubernetes-cluster-61b33672dfec?source=rss-5da727287624------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!--
