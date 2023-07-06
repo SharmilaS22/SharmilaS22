@@ -14,11 +14,11 @@
 
 ### Recent medium articles
 <!-- MEDIUM-STORY-LIST:START -->
+- [Creating an SQS Queue Using Terraform: A Step-by-Step Guide](https://sharmilas.medium.com/creating-an-sqs-queue-using-terraform-a-step-by-step-guide-54f1005dc616?source=rss-5da727287624------2)
 - [A Step-by-Step Guide to Creating Load Balancer and EC2 with Auto Scaling Group using Terraform](https://sharmilas.medium.com/a-step-by-step-guide-to-creating-load-balancer-and-ec2-with-auto-scaling-group-using-terraform-752afd44df8e?source=rss-5da727287624------2)
 - [Publish/Subscribe Model with RabbitMQ in node.js](https://blog.devops.dev/publish-subscribe-model-with-rabbitmq-in-node-js-1be74234df60?source=rss-5da727287624------2)
 - [Create an s3 bucket with AWS CDK](https://blog.devops.dev/create-an-s3-bucket-with-aws-cdk-e012b43c3511?source=rss-5da727287624------2)
 - [RabbitMQ Exchange Types Explained](https://blog.devops.dev/rabbitmq-exchange-types-explained-5fd9086595f5?source=rss-5da727287624------2)
-- [A Beginner’s Journey: Deploying Pods to a local Kubernetes Cluster Made Simple](https://sharmilas.medium.com/deploy-a-pod-to-the-local-kubernetes-cluster-61b33672dfec?source=rss-5da727287624------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!--
