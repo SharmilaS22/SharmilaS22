@@ -8,7 +8,6 @@
 - 💻 Domains: _Web Development, DevOps, Cloud._
 - 👩‍💻 Favourite languages: _Javascript, Python and Java._
 - 💞 Favourites: Coffee ☕, Music 🎶, Books 📚
-- ✨ Favourite Quote: _"Quit trying to fit in, when you were born to stand out"_
 
 📫 How to reach me: [https://sharmilas.bio.link/](https://sharmilas.bio.link/) or https://www.linkedin.com/in/sharmila-s22/
 
